@@ -7,6 +7,7 @@ export const App = () => {
     <div className="App">
       New project
       AZIM
+      Tunuk
     </div>
   );
 }
